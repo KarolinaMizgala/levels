@@ -1,25 +1,16 @@
- {"id": "levelsPack2",
-"diamondsToUnlock": "200",
-"canUnlockWithDiamonds": "true",
-"levels": [
-	{	//1
-      "width": "3",
-      "height": "3",
+{
+  "id": "october",
+  "diamondsToUnlock": "0",
+  "canUnlockWithDiamonds": "true",
+  "levels": [
+    {
+		//1
+      "width": "4",
+      "height": "4",
       "gamerule": "En_Add",
+      "keysToUnlock": "0",
       "keysAfterFinish": "0",
-      "diamondsToUnlock": "0",
-      "keysToUnlock": "1",
-      "value": "1;x;1;x;x;x;2;x;2",
-	  "challenges": [
-        {
-          "type": "3",
-          "value": "3"
-        },
-		{
-          "type": "2",
-          "value": "2"
-        }
-      ]
+      "value": "1;x;x;2;x;x;x;x;x;2;2;x;x;x;x;3"
     },
     {
 		//2
