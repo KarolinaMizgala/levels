@@ -1,20 +1,21 @@
-{
-  "id": "levelsPack1",
-  "diamondsToUnlock": "0",
-  "canUnlockWithDiamonds": "true",
-  "levels": [
-    {
+ {
 		//1
-      "width": "4",
-      "height": "4",
+      "width": "3",
+      "height": "3",
       "gamerule": "En_Add",
-      "keysToUnlock": "0",
       "keysAfterFinish": "0",
-      "value": "1:indx1;x;x;2:indx2;x;x;x;x;x;2:indx5;2:indx4;x;x;x;x;3:indx3",
-      "tutorialKeys": [
-        "FIRST_TUTORIAL_KEY",
-        "SECOND_TUTORIAL_KEY",
-        "THIRD_TUTORIAL_KEY"
+      "diamondsToUnlock": "0",
+      "keysToUnlock": "1",
+      "value": "1;x;1;x;x;x;2;x;2",
+	  "challenges": [
+        {
+          "type": "3",
+          "value": "3"
+        },
+		{
+          "type": "2",
+          "value": "2"
+        }
       ]
     },
     {
