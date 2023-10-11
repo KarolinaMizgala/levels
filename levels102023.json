@@ -8,6 +8,7 @@
       "height": "4",
       "gamerule": "En_Add",
       "keysToUnlock": "0",
+"diamondsToUnlock": "0",
       "keysAfterFinish": "0",
       "value": "10;1;1;20;1;1;x;x;x;20;20;x;x;x;x;30"
     },
